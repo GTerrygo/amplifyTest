@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/test1": {
+      "name": "/test1",
+      "lambdaFunction": "myapp1239fac5",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
