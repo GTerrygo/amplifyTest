@@ -15,17 +15,55 @@
       "function": {
         "myapp1239fac5": {
           "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
-          "s3Key": "amplify-builds/myapp1239fac5-6f3634546e6f4674614d-build.zip"
+          "s3Key": "amplify-builds/myapp1239fac5-545a3043453749485a31-build.zip"
         },
         "testForChange": {
           "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
-          "s3Key": "amplify-builds/testForChange-6f4978756c52344d6465-build.zip"
+          "s3Key": "amplify-builds/testForChange-515a4d7a596337595747-build.zip"
+        },
+        "myapp1a6f0a23DefineAuthChallenge": {
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23DefineAuthChallenge-70483273486348765a6e-build.zip"
+        },
+        "myapp1a6f0a23CreateAuthChallenge": {
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23CreateAuthChallenge-5950526c5971586f4731-build.zip"
+        },
+        "myapp1a6f0a23VerifyAuthChallengeResponse": {
+          "RECAPTCHASECRET": "gtw5290208",
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23VerifyAuthChallengeResponse-71344a43646b50764349-build.zip"
+        },
+        "myapp1a6f0a23CustomMessage": {
+          "REDIRECTURL": "",
+          "EMAILSUBJECT": "",
+          "EMAILMESSAGE": "",
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23CustomMessage-76354b79366454495842-build.zip"
+        },
+        "myapp1a6f0a23PostConfirmation": {
+          "GROUP": "",
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23PostConfirmation-305a776b66646f656333-build.zip"
+        },
+        "myapp1a6f0a23PreSignup": {
+          "DOMAINALLOWLIST": "",
+          "DOMAINDENYLIST": "",
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23PreSignup-6b6d654d723762563877-build.zip"
+        },
+        "myapp1a6f0a23PreTokenGeneration": {
+          "deploymentBucketName": "amplify-myapp-staging-24339-deployment",
+          "s3Key": "amplify-builds/myapp1a6f0a23PreTokenGeneration-70314b6731537a59346e-build.zip"
         }
       },
       "api": {
         "myapp": {},
         "likePost": {},
         "test1": {}
+      },
+      "auth": {
+        "myapp1a6f0a23": {}
       }
     }
   }
